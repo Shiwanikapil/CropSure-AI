@@ -1,0 +1,26 @@
+:root {
+  color-scheme: light only;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+html {
+  color-scheme: light only;
+  scroll-behavior: smooth;
+  background: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+  background: #ffffff;
+  color: #1d2c3c;
+}
+
+button,
+a {
+  font-family: inherit;
+} 
