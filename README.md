@@ -1,9 +1,8 @@
 # CropSure AI
 
-CropSure AI is a web application prototype for crop-loss reporting and officer review. Farmers can submit a report with crop and damage details, field location, and supporting evidence. Review officers can examine reports, record a status and note, and share a PDF review report with the farmer.
-
-AI image analysis is optional decision-support. An authorized officer makes the final report decision.
-
+CropSure AI is a application prototype that helps farmers report crop damage and follow the review process online. Farmers can enter crop and damage details, describe what happened, and attach supporting photos or PDF documents.
+Farmers can find their field by searching for a place or selecting its location on an interactive map. The interface is available in **English and Hindi** and includes a built-in help assistant. Farmers can type questions or use voice input where their browser supports it.
+Review officers can examine submitted reports, review available evidence and AI-generated image assessments, update report statuses, and add notes for farmers. The AI assessment is optional decision-support; the authorized officer makes the final decision. Farmers can track report updates and download the officer's PDF report when available.
 ## Features
 
 - Farmer registration and sign-in
