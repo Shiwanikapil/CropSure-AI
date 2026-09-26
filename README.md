@@ -27,3 +27,12 @@ AI image analysis is optional decision-support. An authorized officer makes the 
 - **Other services:** Open-Meteo weather API and Nominatim geocoding
 - **File and PDF tools:** Multer, Sharp, and PDFKit
 - **Authentication:** JWT and bcrypt
+
+## Run locally
+Server side:
+cd server
+npm start
+Client side:
+cd client
+npm run dev
+
