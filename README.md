@@ -7,7 +7,7 @@ Review officers can examine submitted reports, review available evidence and AI-
 
 - Farmer registration and sign-in
 - Crop-loss reports with damage details and incident description
-- Map-based field selection and address search
+- Map-based field selection and address search 
 - Photo and PDF evidence uploads
 - Officer dashboard for report review and status updates
 - Optional crop-image assessment using Gemini or OpenAI
