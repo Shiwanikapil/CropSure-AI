@@ -33,5 +33,5 @@ cd server
 npm start
 Client side:
 cd client
-npm run dev
+npm run dev 
 
